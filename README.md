@@ -1,7 +1,7 @@
 # Java-Inventory-Management-System
 
 I followed a Model-View-Controller layout for this project, and built this with JavaFX using SceneBuilder. 
-This is my first project I've completed, so I'm sure there are a million ways to make it better. 
+This is my first project I've completed, so I'm sure there are a million ways to make it better.  
 Below are the requirements I needed to meet to pass the class: 
 
 
@@ -96,4 +96,3 @@ J.  Write code to implement exception controls with custom error messages for on
 K.  Demonstrate professional communication in the content and presentation of your submission.
 
 
-Project was submitted on 9/17/19 around 7:00pm... just waiting to see if I passed yet!
